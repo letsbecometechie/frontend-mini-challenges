@@ -1,0 +1,28 @@
+/* Use @import directive to import fonts here */
+
+body {
+  font-family: sans-serif;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.star{
+  color: grey;
+}
+
+.hover{
+  color: gold;
+}
+
+.active{
+  color: gold;
+}
